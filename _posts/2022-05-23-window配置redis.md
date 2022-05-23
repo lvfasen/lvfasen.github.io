@@ -30,7 +30,7 @@ redis-servre.ext:启动redis服务
 
 redis-cli -v(显示版本号)
 
-![](../_pic/redis-cli-v.jpg)
+![](../assets/image/redis-cli-v.jpg)
 
 ![]({{lvfasen.github.io}}/assets/image/redis-cli-v.jpg)
 
