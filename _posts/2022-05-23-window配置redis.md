@@ -32,6 +32,8 @@ redis-cli -v(显示版本号)
 
 ![](../_pic/redis-cli-v.jpg)
 
+![](https://lvfasen.github.io/_pic/redis-cli-v.jpg)
+
 （2）启动Redis服务
 
 redis-server（窗口不能关闭，否则服务就会停止）
