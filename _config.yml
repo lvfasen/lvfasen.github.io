@@ -40,6 +40,12 @@ social:
 google_site_verification: xxxxx
 lang: en
 
+defaults:
+  - scope:
+      path: assets/image
+    values:
+      swcache: true
+
 sass:
   sass_dir: _sass
   style: :compressed
