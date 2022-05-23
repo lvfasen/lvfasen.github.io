@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: lvfasen
+  username: Mason
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Mason
   links:
     - https://twitter.com
-    - https://github.com/lvfasen
+    - https://github.com/lvfasen/lvfasen.github.io
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/lvfasen/
+  name: Mason
+  url: https://github.com/lvfasen/lvfasen.github.io
   email: 653656670@qq.com

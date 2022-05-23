@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://653656670@qq.com
+  url: mailto://vszhub@gmail.com
   icon: fas fa-envelope
 - title: Twitter
-  url: https://twitter.com
+  url: https://twitter.com/vszhub
   icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/lvfasen/lvfasen.github.io
+  url: https://github.com/vszhub/not-pure-poole
   icon: fab fa-github
