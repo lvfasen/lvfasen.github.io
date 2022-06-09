@@ -45,3 +45,19 @@ redis-cli
 （4）关闭redis
 
 redis-cli shutdown
+
+## 配置密码
+
+```sh
+127.0.0.1:6379> config get requirepass
+1) "requirepass"
+2) ""
+127.0.0.1:6379> config set requirepass 123456
+OK
+127.0.0.1:6379> config get requirepass
+(error) NOAUTH Authentication required.
+127.0.0.1:6379> auth 123456
+OK
+127.0.0.1:6379redis-cli -h 127.0.0.1 -p 6379 -a 123456
+```
+
